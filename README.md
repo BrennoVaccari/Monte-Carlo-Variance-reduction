@@ -6,7 +6,7 @@ Author: Brenno Vaccari
 <table>
   <tr>
     <td>
-      <a href="https://github.com/BrennoVaccari/Monte-Carlo-Variance-reduction/blob/main/MC_Pi_estimates.ipynb"> MC_Pi_estimates.ipybn </a>
+      <a href="https://github.com/BrennoVaccari/Monte-Carlo-Variance-reduction/blob/main/MC_Pi_Estimates.ipynb"> MC_Pi_estimates.ipybn </a>
     </td>
     <td>
       Code of the project
