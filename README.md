@@ -14,7 +14,7 @@ Author: Brenno Vaccari
   </tr>
   <tr>
     <td>
-      <a> </a>
+      <a href="https://github.com/BrennoVaccari/Monte-Carlo-Variance-reduction/blob/main/MC_methods_report.pdf"> MC_methods_report.pdf </a>
     </td>
     <td>
       Final Written report
